@@ -1,0 +1,54 @@
+@import url("https://use.typekit.net/gar5qfn.css");
+
+body{
+    background-color: #eef6d7;
+    font-family: aileron, sans-serif;
+    color: #495551;
+    font-size: 16px;
+    font-weight: 300;
+}
+header{
+    width: 1100px;
+    height: 119px;
+    margin:auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+    header a img{
+        width: 180px;
+        vertical-align: middle;
+        margin-right: 16px;
+    }
+
+    header a {
+        text-decoration: none;
+        color: #495551;
+        font-weight: 600;
+    }
+    header nav a {
+        padding: 10px 16px; /*hacia dentro de la caja*/
+        background-color: #eef6d7;
+        font-size: 16px;
+        width: 150px;
+
+    }
+    header nav a:hover {
+        border-top: 3px solid #317f54;
+       
+
+    }
+    .sesion{
+        border: 1px solid #317f54;
+        border-radius: 28px;
+        width: 150px;
+        padding: 10px 0px;
+        font-weight: 600;
+        text-align: center;
+        transition: .3s;/*para demora de cambio de estado*/
+    }
+    .sesion:hover{
+        color: #fff;
+        background-color: #317f54;
+    }
