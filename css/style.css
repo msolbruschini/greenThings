@@ -61,8 +61,7 @@ header{
     right: 0;
 }
 #imgprueba{
-    position: absolute;
-    height: 60%;
+    height: 400px;
     border-bottom-right-radius: 150px ;
 }
 
@@ -72,4 +71,14 @@ header{
     height: 200px;
     width: 100%;
     margin-top: 600px;
+}
+
+.cardMap{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cardMap div{
+    padding: 20px ;
+    margin: 20px;
 }
