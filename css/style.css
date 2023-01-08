@@ -220,3 +220,35 @@ header{
 	}
 }
 /*###Fin Nosotros###*/
+
+
+.cardEvents {
+    margin: 20px;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    width: 280px;
+    text-align: center;
+    height: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+  }
+  
+  .cardEvents iframe {
+    max-width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  #resultado{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .descripcion{
+    display: flex;
+    margin: 5px;
+  }
+  .descripcion img{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }

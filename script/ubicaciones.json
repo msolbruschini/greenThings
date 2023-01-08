@@ -1,0 +1,67 @@
+[
+    {
+        "nombre": "Instituto Alberdi",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.441427589474!2d-58.52539406874998!3d-34.63032249999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca289045ae61%3A0xa1d740ee349b794f!2sInstituto%20Alberdi!5e0!3m2!1ses-419!2sar!4v1673143309302!5m2!1ses-419!2sar",
+        "descripcion": "Av. Juan Bautista Alberdi 2241, C1406 GRL, Buenos Aires"
+    },
+    {
+        "nombre": "Facultad de Teología - Pontificia Universidad Católica Argentina",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb7b54362f29d%3A0xe43baafef716d485!2sFacultad%20de%20Teolog%C3%ADa%20-%20Pontificia%20Universidad%20Cat%C3%B3lica%20Argentina!5e0!3m2!1ses-419!2sar!4v1673143447673!5m2!1ses-419!2sar",
+        "descripcion": "Concordia 4422, C1419AOH, Buenos Aires"
+    },
+    {
+        "nombre": "Escuela de Jornada Completa N° 05 D.E. 12 República de El Salvador ",
+        "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc9f4975641ab%3A0x453502244f73138e!2sEscuela%20de%20Jornada%20Completa%20N%C2%B0%2005%20D.E.%2012%20%22Rep%C3%BAblica%20de%20El%20Salvador%22!5e0!3m2!1ses-419!2sar!4v1673143556627!5m2!1ses-419!2sar",
+        "descripcion": "Gral. José Gervasio Artigas 878, C1406ABN CABA"  
+    },
+
+{
+    "nombre": "Esc. Primaria Común N° 11 Dr. Enrique Mosca",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccba189186ca1%3A0xd2639f64fbdbb6f5!2sEsc.%20Primaria%20Com%C3%BAn%20N%C2%B0%2011%20Dr.%20Enrique%20Mosca!5e0!3m2!1ses-419!2sar!4v1673144190956!5m2!1ses-419!2sar",
+    "descripcion": "Casafoust 761, C1416 CABA"
+},
+{
+    "nombre": "Escuela 25 DE 14 Carmen Sonda de Pandolfini",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb63cdfc62eb1%3A0x6e4e64cf3d99465!2sEscuela%2025%20DE%2014%20Carmen%20Sonda%20de%20Pandolfini!5e0!3m2!1ses-419!2sar!4v1673144135921!5m2!1ses-419!2sar",
+    "descripcion": "Av. San Martín 5021, C1417 CABA"
+},
+{
+    "nombre": "Escuela del Sol",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5c1e7fd2b57%3A0x8971fc182b4dbd66!2sEscuela%20del%20Sol!5e0!3m2!1ses-419!2sar!4v1673144080169!5m2!1ses-419!2sar",
+    "descripcion": "Crámer 450, C1426 CABA"
+},
+
+{
+    "nombre": "Escuela Primaria Convivencias",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52527.53719931703!2d-58.525394115416205!3d-34.63017123938885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb63739600aa3%3A0xe331952b3d42da15!2sEscuela%20Primaria%20Convivencias!5e0!3m2!1ses-419!2sar!4v1673144256747!5m2!1ses-419!2sar",
+    "descripcion": "Mariscal Francisco Solano López 3125, C1419HRE CABA"
+},
+
+{
+    "nombre": " Hospital Dr. Abel Zubizarreta ",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52546.54709596695!2d-58.576657768750025!3d-34.60013579999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb7cc8525221d%3A0x7da66837acb166c7!2sHospital%20Dr.%20Abel%20Zubizarreta!5e0!3m2!1ses-419!2sar!4v1673144478112!5m2!1ses-419!2sar" ,
+    "descripcion": " Nueva York 3952, C1419 CABA "
+},
+
+{
+    "nombre": " Hospital Dra. Cecilia Grierson",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52501.15842724995!2d-58.521654068749974!3d-34.67181169999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccbfc3c8e7df5%3A0xa3369e34bb0a9b73!2sHospital%20Dra.%20Cecilia%20Grierson!5e0!3m2!1ses-419!2sar!4v1673144515046!5m2!1ses-419!2sar" ,
+    "descripcion": "Av. Gral. Francisco Fernández de la Cruz 4402, Buenos Aires "
+},
+{
+    "nombre": "Hospital General de Agudos Dr. Teodoro Álvarez ",
+    "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52531.521040806714!2d-58.53561576875!3d-34.6238787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcc98cbc53cddf%3A0x728ecd3e472e1301!2sHospital%20General%20de%20Agudos%20Dr.%20Teodoro%20%C3%81lvarez!5e0!3m2!1ses-419!2sar!4v1673144554622!5m2!1ses-419!2sar" ,
+    "descripcion": " Dr. Juan Felipe Aranguren 2701, C1406 CABA"
+},
+{
+    "nombre": " Hospital General de Agudos Parmenio Piñero",
+    "iframe":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52531.521040806714!2d-58.53561576875!3d-34.6238787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccbd10f996263%3A0x391034dfcd6a2527!2sHospital%20General%20de%20Agudos%20Parmenio%20Pi%C3%B1ero!5e0!3m2!1ses-419!2sar!4v1673144571750!5m2!1ses-419!2sar"  ,
+    "descripcion": " Buenos Aires AR, Av. Varela 1301, C1406 ELA"
+},
+{
+    "nombre": " Hospital Español ",
+    "iframe":  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52537.29193986623!2d-58.47396206874998!3d-34.614761699999974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccaf077ba6675%3A0x5d7e8f4e6f49a587!2sHospital%20Espa%C3%B1ol!5e0!3m2!1ses-419!2sar!4v1673144625279!5m2!1ses-419!2sar"  ,
+    "descripcion": " Av. Belgrano 2975, C1209 CABA"
+}
+
+]
