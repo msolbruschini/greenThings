@@ -201,14 +201,12 @@ header{
 	padding: 10px;
 	margin-top: 10px;
 	text-decoration: none;
-	color: #2fb4cc;
-	border: 1px solid #2fb4cc;
-	border-radius: 4px;
+	color: #317f54;
 	transition: all 400ms ease;
 	margin-bottom: 5px;
 }
 .card2 .contenido-card a:hover{
-	background: #2fb4cc;
+	background: #317f54;
 	color: #fff;
 }
 @media only screen and (min-width:320px) and (max-width:768px){
@@ -219,8 +217,6 @@ header{
 		margin: 15px;
 	}
 }
-/*###Fin Nosotros###*/
-
 
 .cardEvents {
     margin: 20px;
@@ -252,6 +248,8 @@ header{
     height: 30px;
     margin-right: 10px;
   }
+
+/*###Fin Nosotros###*/
 
   /*FOOTER*/
         footer{
