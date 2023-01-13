@@ -1,5 +1,10 @@
 @import url("https://use.typekit.net/gar5qfn.css");
 
+/*GLOBAL*/
+a {
+    text-decoration: none;
+}
+
 body {
     background-color: #eef6d7;
     font-family: aileron, sans-serif;
@@ -82,6 +87,7 @@ header nav a:hover {
     margin-top: 600px;
 }
 
+/*###PUNTOS VERDES CARDS###*/
 .cardMap {
     display: flex;
     flex-wrap: wrap;
@@ -92,6 +98,99 @@ header nav a:hover {
     padding: 20px;
     margin: 20px;
 }
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+    .container-card {
+        flex-wrap: wrap;
+    }
+
+    .card2 {
+        margin: 15px;
+    }
+}
+
+.cardEvents {
+    margin: 20px;
+    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    width: 280px;
+    text-align: center;
+    height: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+.cardEvents iframe {
+    max-width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+#resultado {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.descripcion {
+    display: flex;
+    margin: 5px;
+}
+
+.descripcion img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+/*###FIN DE PUNTOS VERDES###*/
+
+/*POSIBLE NOSOTROS*/
+
+#nosotros {
+    height: 900px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+}
+
+#nosotros img {
+    width: 245px;
+    height: 310px;
+    margin-bottom: 12px;
+
+    transition: .3s;
+}
+
+#nosotros h2 {
+    margin-top: 12px;
+}
+
+#nosotros a {
+    color: #495551;
+}
+
+/* TAREA*/
+#nosotros img:hover {
+    width: 280px;
+    height: 350px;
+
+}
+
+#nosotros div:hover h2 {
+    transition: .3s;
+    font-size: 24px;
+}
+
+#nosotros a:hover {
+    background: #317f54;
+    color: #fff;
+}
+
+/*###Fin Nosotros###*/
 
 /*### CONTACTO ###*/
 
@@ -155,126 +254,6 @@ form {
 }
 
 /*###Fin Contacto###*/
-
-/*###Nosotros###*/
-.container-card {
-    width: 90%;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content:space-between;
-    max-width: 1100px;
-    margin: auto;
-}
-
-.title-cards {
-    width: 100%;
-    max-width: 1080px;
-    margin: auto;
-    padding: 20px;
-    margin-top: 20px;
-    text-align: center;
-    color: #7a7a7a;
-}
-
-.card2 {
-    width: 330px;
-    height: 650px;
-    margin: 20px 10px;
-    border-radius: 6px;
-    overflow: hidden;
-    background: #fff;
-    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.2);
-    transition: all 400ms ease-out;
-    cursor: default;
-}
-
-.card2:hover {
-    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
-    transform: translateY(-3%);
-}
-
-.card2 img {
-    width: 100%;
-    height: 350px;
-}
-
-.card2 .contenido-card {
-    padding: 15px;
-    text-align: center;
-}
-
-.card2 .contenido-card h3 {
-    margin-bottom: 15px;
-    color: #7a7a7a;
-}
-
-.card2 .contenido-card p {
-    line-height: 1.8;
-    color: #6a6a6a;
-    font-size: 14px;
-    margin-bottom: 5px;
-}
-
-.card2 .contenido-card a {
-    display: inline-block;
-    padding: 10px;
-    margin-top: 10px;
-    text-decoration: none;
-    color: #317f54;
-    transition: all 400ms ease;
-    margin-bottom: 5px;
-}
-
-.card2 .contenido-card a:hover {
-    background: #317f54;
-    color: #fff;
-}
-
-@media only screen and (min-width:320px) and (max-width:768px) {
-    .container-card {
-        flex-wrap: wrap;
-    }
-
-    .card2 {
-        margin: 15px;
-    }
-}
-
-.cardEvents {
-    margin: 20px;
-    box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
-    border-radius: 20px;
-    width: 280px;
-    text-align: center;
-    height: fit-content;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: medium;
-}
-
-.cardEvents iframe {
-    max-width: 100%;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-}
-
-#resultado {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-.descripcion {
-    display: flex;
-    margin: 5px;
-}
-
-.descripcion img {
-    width: 30px;
-    height: 30px;
-    margin-right: 10px;
-}
-
-/*###Fin Nosotros###*/
 
 /*FOOTER*/
 footer {
